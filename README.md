@@ -14,3 +14,8 @@ Now you're ready to go.
 Enjoy it! 
 
 Regards AARL
+
+## Email sent option
+
+To use the page "Déjanos un mensaje" you need to configure your env w/ Mailtrap, for more information you can check the official page: 
+- Mailtrap [https://mailtrap.io/]
