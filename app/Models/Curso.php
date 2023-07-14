@@ -9,7 +9,8 @@ class Curso extends Model
 {
     use HasFactory;
     
-    protected $fillable = ['name', 'descripcion', 'categoria'];
+    //protected $fillable = ['name', 'descripcion', 'categoria'];
+    protected $guarded = [];
 
     public function getRouteKeyName()
     {
